@@ -1,10 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.apruch.twa",
-    "sha256_cert_fingerprints": [
-      "58:24:06:77:54:E0:D6:6D:AF:E0:7E:D8:3A:DF:9B:E2:58:27:EF:EF:CF:2C:D5:FD:E5:37:C4:92:CA:0E:D0:CA"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.apruch.twa",
+        "sha256_cert_fingerprints": ["89:E6:28:17:35:19:6A:3B:6E:05:74:F4:A1:C7:43:1E:22:A7:12:24:8E:EC:1E:88:CA:6B:75:BF:A8:5D:B4:E1"]
+      }
+    }]
